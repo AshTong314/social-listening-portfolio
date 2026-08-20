@@ -15,8 +15,5 @@ Yutong Wang
 - Python（pandas basics）
 - Data collection(statista)
 
-## Contact me
-email：hmyyw56@nottingham.edu.cn
-
 
 
