@@ -5,10 +5,10 @@ personal sample report and portfolio
 Yutong Wang
 
 ## Contents note
-- `01_OliverWyan_consulting_simulation.pptx`
-- `02_ESGclub_企业数字化转型行业分析.pptx`
-- `03_L'Oréal_brandstorm_market_analysis_ppt_p1.pptx`
-- `04_data_cleanup_practice.ipynb`
+- `01_OliverWyan consulting simulation.pptx`
+- `02_ESG club enterprise digital transformation-industry analysis .pptx`
+- `03_L'Oréal brandstorm market analysis ppt_p1.pptx`
+- `04_data cleanup practice.ipynb`
 
 ## Tech stack
 - Excel（visualization）
